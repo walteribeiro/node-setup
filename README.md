@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to node-setup 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/node-setup" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/node-setup.svg">
-  </a>
   <a href="https://github.com/walteribeiro/node-setup#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
